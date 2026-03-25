@@ -1,6 +1,6 @@
-package fr.capellegab.api;
+package fr.capellegab.api.module;
 
-import fr.capellegab.api.entities.Event;
+import fr.capellegab.api.event.Event;
 
 public interface EventModule {
     ModuleConfig config();
